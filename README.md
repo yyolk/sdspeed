@@ -34,3 +34,4 @@ The model behind this user interface is based on F3 - Fight Flash Fraud Version 
 Michel Machado who wrote an open source alternative to h2testw and released the code 
 under GNU General Public License (GPL) version 3. For more information about F3 please 
 visit http://oss.digirati.com.br/f3/
+Github repo https://github.com/AltraMayor/f3
