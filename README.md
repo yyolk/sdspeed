@@ -1,6 +1,14 @@
-sdspeed
+sdspeed - SD Memeory Card - Fight Flash Fraud
 =======
 Measures the effective read and write speed of SD memory cards. sdspeed runs on Mac OS X.
+sdspeed is based on F3 (see details below) but with some changes so that it was possible 
+to write a nativ Mac OS X user interface based on it.
+
+LIMITATIONS
+===========
+The author of this application is not responsible if your SD card get damaged by the use
+of this software. You should always make backup first before try any software that touches
+your SD card.
 
 Version and Author
 ==================
@@ -27,6 +35,8 @@ Todo
 ====
 - Recognize SD card after sdspeed is started. (Maybe timer, check every second for a card)
 - Display read speed while read test is running. Add also progress bar.
+- Display the size of the SD card
+- Display the CLASS of the SD card (assume, based on the average of read/write)
 
 Credits
 =======
