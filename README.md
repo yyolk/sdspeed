@@ -1,7 +1,7 @@
 sdspeed
 =======
 
-Measures the write and read speed of SD memory cards for Mac OS X.
+Measures the effective read and write speed of SD memory cards. sdspeed runs on Mac OS X.
 
 
 Compile
@@ -16,7 +16,7 @@ Author System
 
 Credits
 =======
-The model behind this user interface is based on F3 Version 2.2 by Michel Machado who 
-wrote an open source alternative to h2testw and released the code under GNU General 
-Public License (GPL) version 3. For more information about F3 please visit 
-http://oss.digirati.com.br/f3/
+The model behind this user interface is based on F3 - Fight Flash Fraud Version 2.2 by 
+Michel Machado who wrote an open source alternative to h2testw and released the code 
+under GNU General Public License (GPL) version 3. For more information about F3 please 
+visit http://oss.digirati.com.br/f3/
